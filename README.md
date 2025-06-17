@@ -49,5 +49,3 @@ Line plots for booking trends by month
 Bar charts comparing cancellations by hotel type
 
 Pie charts showing customer distribution
-
-✅ How to Run
